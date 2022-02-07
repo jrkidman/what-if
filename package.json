@@ -1,0 +1,25 @@
+{
+  "name": "what-if",
+  "version": "1.0.0",
+  "description": "Fork and clone this assignment to get started. You'll need to create several javascript files (one for each file listed below) according to the instructions below.",
+  "main": "what-can-you-do.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "ansi-regex": "^4.1.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrkidman/what-if.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrkidman/what-if/issues"
+  },
+  "homepage": "https://github.com/jrkidman/what-if#readme"
+}
